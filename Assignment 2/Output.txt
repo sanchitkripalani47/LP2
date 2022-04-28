@@ -1,0 +1,170 @@
+A New Graph has been created!!!
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 1
+
+Enter the first vertex: 0
+Enter the second vertex: 1
+
+Vertex 0 added to graph!!!
+Vertex 1 added to graph!!!
+
+Edge created between 0 and 1
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 1
+
+Enter the first vertex: 0
+Enter the second vertex: 4
+
+Vertex 4 added to graph!!!
+
+Edge created between 0 and 4
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 1
+
+Enter the first vertex: 1
+Enter the second vertex: 2
+
+Vertex 2 added to graph!!!
+
+Edge created between 1 and 2
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 1
+
+Enter the first vertex: 1
+Enter the second vertex: 3
+
+Vertex 3 added to graph!!!
+
+Edge created between 1 and 3
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 1
+
+Enter the first vertex: 1
+Enter the second vertex: 4
+
+Edge created between 1 and 4
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 1
+
+Enter the first vertex: 2
+Enter the second vertex: 3
+
+Edge created between 2 and 3
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 1
+
+Enter the first vertex: 3
+Enter the second vertex: 4
+
+Edge created between 3 and 4
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 2
+
+The Adjancency list is:
+
+Current vertex head is 0-> 1-> 4
+
+Current vertex head is 1-> 0-> 2-> 3-> 4
+
+Current vertex head is 2-> 1-> 3
+
+Current vertex head is 3-> 1-> 2-> 4
+
+Current vertex head is 4-> 0-> 1-> 3
+
+
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 3
+
+Enter the first vertex for traversal: 0
+
+Breadth First Search result is:
+0 1 2 3 4
+
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 4
+
+Depth first search is:
+0 1 2 3 4
+
+
+MENU:
+1) Add an Edge (Also adds vertices automatically):
+2) Print Adjancency list:
+3) Traverse using BFS:
+4) Traverse using DFS:
+5) Exit:
+
+Enter your choice: 5
+
+Good Bye!!!
